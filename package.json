@@ -9,6 +9,9 @@
   "browser": {
     "type": "type-component"
   },
+  "scripts": {
+    "test": "node test"
+  },
   "component": {
     "scripts": {
       "mongo-eql/index.js": "index.js"
